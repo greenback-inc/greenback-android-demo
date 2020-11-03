@@ -2,7 +2,7 @@
 
 ![Greenback Logo](https://www.greenback.com/assets/f/blogs/github-greenback-java/greenback-logo-badge.png)
 
-The official [Greenback](https://www.greenback.com) open source demo of the Greenback Kit on Android!
+The official [Greenback](https://www.greenback.com) open source demo of the [Greenback Kit for Java](https://github.com/greenback-inc/greenback-java) on Android!
 
 The [Greenback Platform](https://www.greenback.com/platform) consists of APIs to build modern applications with high-def itemized financial data.  You can read more about our REST-based APIs and data models on the [Greenback Developer Portal](https://developer.greenback.com).  This demo currently demonstrates the Vision API.
 
