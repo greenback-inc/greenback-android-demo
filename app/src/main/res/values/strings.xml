@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Greenback Demo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="open_gallery">Existing Photo</string>
+    <string name="capture_image">Take New Photo</string>
+    <string name="previous">Previous</string>
+
+    <string name="camera_welcome">Shoot a new photo or choose one from your gallery</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
